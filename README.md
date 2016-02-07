@@ -1,6 +1,6 @@
 # StuttgartEagles README
 
-## Colaborators
+## Collaborators
 
 Kyle Underwood
 Scott Underwood
